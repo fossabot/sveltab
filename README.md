@@ -4,6 +4,7 @@
 [![Mozilla Add-on Version](https://img.shields.io/amo/v/sveltab)](https://addons.mozilla.org/firefox/addon/sveltab/)
 [![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/kjfmkbajdehhjlfmldcghgcgmffnohld)](https://chromewebstore.google.com/detail/sveltab/kjfmkbajdehhjlfmldcghgcgmffnohld)
 [![Microsoft Edge Addons](https://img.shields.io/badge/dynamic/json?label=edge%20add-on&prefix=v&query=%24.version&url=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fgetproductdetailsbycrxid%2Fgjmmknaifmjpakigdnodcdmpfkkccegj)](https://microsoftedge.microsoft.com/addons/detail/gjmmknaifmjpakigdnodcdmpfkkccegj)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fakopachov%2Fsveltab.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fakopachov%2Fsveltab?ref=badge_shield)
 
 A beautiful, customizable New Tab page for Firefox, Chrome, Edge and other Chromium-based browsers.
 
@@ -49,3 +50,7 @@ Checkout the guide for [adding translations](TRANSLATING.md).
 * Become a patron at [Patreon](https://patreon.com/akopachov) (Account needed)
 * [Z.Cash](https://z.cash/): `t1PCzJrd96RUfzjzhBERfXEFvSi7W6V86hM`
 * [TON](https://ton.org/): `UQCSBzoTb1B7RhXnka5RegmdjHR3gQwRVgZHNPPqzjjvlTKW`
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fakopachov%2Fsveltab.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fakopachov%2Fsveltab?ref=badge_large)
